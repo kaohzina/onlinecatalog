@@ -1,2 +1,2 @@
 language = "bash"
-run = "javac PersonalContacts.java && java PersonalContacts"
+run = "javac onlinecatalog.java && java onlinecatalog"
