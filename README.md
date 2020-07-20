@@ -1,2 +1,1 @@
-# onlinecatalog
-online catalog template for items and their prices
+Personal contacts listing for individual and emergency contacts
